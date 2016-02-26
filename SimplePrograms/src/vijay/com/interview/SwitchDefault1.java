@@ -15,6 +15,7 @@ public class SwitchDefault1 {
 			System.err.println("It's 90....");
 		}
 		System.err.println(testFinallyReturn());
+		System.err.println("test Run.....");
 		
 	}
 
